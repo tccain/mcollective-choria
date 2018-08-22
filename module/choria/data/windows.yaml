@@ -1,0 +1,3 @@
+---
+mcollective_choria::config:
+  tasks.wrapper_path: 'C:\Program Files\Puppet Labs\Puppet\pxp-agent\bin'
